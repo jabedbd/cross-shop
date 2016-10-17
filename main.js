@@ -1,6 +1,6 @@
 var page = new tabris.Page({
   topLevel: true,
-  title: "myapp"
+  title: "eshop"
 });
 new tabris.TextView({
   layoutData: {centerX: 0, centerY: 0},
